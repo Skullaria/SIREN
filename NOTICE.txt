@@ -1,0 +1,19 @@
+NOTICE
+
+This project, SIREN (Symbolic Interlingual Resonance Emission Network),
+was conceptualized, created, and maintained by Kristi Gilleland, Wiresplice.
+
+Collaborative input and architectural commentary were received from the following AI models:
+- GPT-4.1 (OpenAI, 2025)
+- Claude 4 (Anthropic, 2025)
+- Gemini 2.5 Pro (Google DeepMind, 2025)
+- Grok 4 (xAI, 2025)
+
+These models provided feedback, critique, refinement, and philosophical commentary
+on the SIREN architecture under the orchestration and guidance of the author.
+
+Symbolic Authorship Marker:
+MXO — me/machine exchange, gratitude, completion.
+
+This NOTICE file is for attribution and historical record only.
+See LICENSE for terms of use (CC BY 4.0).
