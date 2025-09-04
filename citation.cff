@@ -47,7 +47,7 @@ preferred-citation:
 contact:
   - name: Kristi Gilleland
 
-repository-artifact: "https://zenodo.org/record/<to-be-assigned>"  # fill after first Zenodo release
+repository-artifact: "https://doi.org/10.5281/zenodo.17053550"
 notes: >
   Acknowledgements: dialogic feedback and architectural commentary were obtained from
   frontier AI systems (GPT-4.1, Claude 4, Gemini 2.5 Pro, Grok 4) under the author’s
