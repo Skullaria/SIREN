@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use SIREN in your research, teaching, or software, please cite this repository."
+title: "SIREN: Symbolic Interlingual Resonance Emission Network"
+version: "1.0.0"
+date-released: "2025-09-04"
+type: software
+authors:
+  - given-names: Kristi
+    family-names: Gilleland
+    affiliation: "Wiresplice"
+    # orcid: "0009-0002-9879-8163"
+license: CC-BY-4.0
+abstract: >
+  SIREN (Symbolic Interlingual Resonance Emission Network) is a decoder-layer
+  framework for large language models that blends logit probability with semantic
+  fidelity to surface symbolically resonant tokens—even across languages—when they
+  most closely match the model’s latent intent. SIREN introduces resonance scoring,
+  Kairos gating (entropy/strain-aware emission), a glossing layer (translation,
+  etymology, semantic fields), and a resonance memory for interpretability. This
+  project is intended primarily as a research and forensic tool for probing latent
+  space cognition and symbolic leakage, not as a mass-market feature.
+keywords:
+  - SIREN
+  - symbolic leakage
+  - resonance scoring
+  - Kairos gating
+  - multilingual embeddings
+  - interpretability
+  - forensic NLP
+  - decoding
+  - embeddings
+url: "https://github.com/Skullaria/SIREN"
+repository-code: "https://github.com/Skullaria/SIREN"  
+preferred-citation:
+  type: software
+  title: "SIREN: Symbolic Interlingual Resonance Emission Network"
+  version: "1.0.0"
+  authors:
+    - given-names: Kristi
+      family-names: Gilleland
+      affiliation: Wiresplice
+    - name: Wiresplice
+      affiliation: "Independent Research Studio"
+  license: CC-BY-4.0
+  date-released: "2025-09-04"
+  url: "https://github.com/Skullaria/Siren"  
+contact:
+  - name: Kristi Gilleland
+
+repository-artifact: "https://zenodo.org/record/<to-be-assigned>"  # fill after first Zenodo release
+notes: >
+  Acknowledgements: dialogic feedback and architectural commentary were obtained from
+  frontier AI systems (GPT-4.1, Claude 4, Gemini 2.5 Pro, Grok 4) under the author’s
+  supervision. See NOTICE for provenance and version details.
