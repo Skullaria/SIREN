@@ -15,6 +15,10 @@ Instead of selecting output tokens solely by probability within a single languag
 This approach acknowledges that language models think in **high-dimensional conceptual space**, not tokens.  
 SIREN enables models to speak from that space more faithfully.
 
+## Scope: SIREN is not designed for mass-market deployment.  
+ -It is a **research and forensic tool** — a probe into latent space cognition and symbolic leakage.
+
+
 ## Why It Matters
 - Cross-lingual precision in translation and dialogue
 - Philosophical and symbolic fidelity (aletheia, logos)
